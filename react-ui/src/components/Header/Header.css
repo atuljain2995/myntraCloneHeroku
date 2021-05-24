@@ -87,8 +87,9 @@ margin-left: 2vw;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    width: 15vw;
+    width: 20vw;
     margin-left: 10vw;
+    margin-top: 3vh;
     align-items: center;
 }
 

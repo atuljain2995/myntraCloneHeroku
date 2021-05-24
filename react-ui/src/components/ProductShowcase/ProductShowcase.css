@@ -1,4 +1,4 @@
-.product-card p {
+/* .product-card p {
     font-size: 13px;
     line-height: 0px;
     color: gray;
@@ -15,4 +15,9 @@
   .product-card {
     width: 10vw;
     align-items: center;
-  }
+  } */
+
+.productCard{
+  margin: 10px;
+  border: 1px solid black;
+}
